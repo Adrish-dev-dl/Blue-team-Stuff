@@ -1,5 +1,5 @@
 # BTLO-Writeups
-Repostiroy consisting of walthough's for Blue team labs online.
+Repostiroy consisting of walkthough's for Blue team labs online.
 Before going thourgh the writeup's please make sure to try the lab exercise's.
 
 
