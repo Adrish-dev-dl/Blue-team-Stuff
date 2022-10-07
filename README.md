@@ -9,3 +9,5 @@ Lab url's :-
 IR-Follina - https://blueteamlabs.online/home/challenge/follina-f1a3452f34
 
 RE-Injection Series Part 4 - https://blueteamlabs.online/home/challenge/injection-series-part-4-8b3aaae8ca
+
+RE-Injection Series Part 3 - https://blueteamlabs.online/home/challenge/injection-series-part-3-3f316e3782
